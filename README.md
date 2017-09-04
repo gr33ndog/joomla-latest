@@ -1,1 +1,1 @@
-# joomla latest news modul experiments
+# joomla latest news module experiments
