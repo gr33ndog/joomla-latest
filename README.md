@@ -1,1 +1,1 @@
-# joomla latest news module experiments
+# joomla overrides
